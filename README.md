@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Sumayamohamed-856
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Software development
-- 💞️ I’m looking to collaborate on software engineers to create projects
 - 📫 How to reach me phone number: 3202375798   Email: Fahimaqalanjo818@gmail.com
 
 <!---
